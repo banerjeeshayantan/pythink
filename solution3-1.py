@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 #1: Eigenvalues of a random matrix
 #Take a large-dimensional (dimension 100, 1000, or more) square random
 #matrix whose elements are independently drawn from N (0; 1) and plot a
